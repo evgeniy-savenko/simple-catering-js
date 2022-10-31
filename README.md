@@ -1,1 +1,1 @@
-# study-project-5
+# Simple site for food delivery services created with classic JS
